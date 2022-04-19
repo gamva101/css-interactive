@@ -6,6 +6,9 @@ import Animation1 from '../components/animation/1.svelte';
 import Animation2 from '../components/animation/2.svelte';
 import CSS3D from '../components/CSS-3D.svelte';
 import CSS3D_1 from '../components/css-3d/1.svelte';
+import Flex from '../components/Flex-test.svelte'
+import Event from '../components/Event.svelte';
+
 export default {
     '/': Home,
     '/transition': Transition,
@@ -14,5 +17,7 @@ export default {
     '/animation/2': Animation2,
     '/css-3d': CSS3D,
     '/css-3d/1': CSS3D_1,
+    '/flex': Flex,
+    '/event': Event,
     '/about': About
 }
