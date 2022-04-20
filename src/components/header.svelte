@@ -7,8 +7,9 @@
     <a use:link href='/transition'>Transition</a>
     <a use:link href='/animation'>Animation</a>
     <a use:link href='/css-3d'>CSS 3D</a>
-    <a use:link href='/flex'>Flex</a>
-    <a use:link href='/event'>Event</a>
+    <a use:link href='/flex'> Flex </a>
+    <a use:link href='/event'>Event  </a>
+    <a use:link href='/three-doors'>Three doors</a>
     <a use:link href='/about'>About</a>
 </header>
 

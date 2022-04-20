@@ -8,6 +8,7 @@ import CSS3D from '../components/CSS-3D.svelte';
 import CSS3D_1 from '../components/css-3d/1.svelte';
 import Flex from '../components/Flex-test.svelte'
 import Event from '../components/Event.svelte';
+import ThreeDoors from '../components/ThreeDoors.svelte';
 
 export default {
     '/': Home,
@@ -19,5 +20,6 @@ export default {
     '/css-3d/1': CSS3D_1,
     '/flex': Flex,
     '/event': Event,
+    '/three-doors': ThreeDoors,
     '/about': About
 }
