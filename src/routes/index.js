@@ -9,6 +9,7 @@ import CSS3D_1 from '../components/css-3d/1.svelte';
 import Flex from '../components/Flex-test.svelte'
 import Event from '../components/Event.svelte';
 import ThreeDoors from '../components/ThreeDoors.svelte';
+import Scroll from '../components/Scroll.svelte';
 
 export default {
     '/': Home,
@@ -21,5 +22,6 @@ export default {
     '/flex': Flex,
     '/event': Event,
     '/three-doors': ThreeDoors,
+    '/scroll': Scroll,
     '/about': About
 }
